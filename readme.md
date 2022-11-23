@@ -1,8 +1,8 @@
 Kontenery znajdują się w tej samej sieci (). Klient przy uruchomieniu wysyła zapytanie na adres kontenera serwera. 
 
 ```
-docker build -t lab6z2_server server .       {--   Używamy znajdując się w folderze server
-docker build -t lab6z2_client client .                         oraz client                  --}
+docker build -t JSkrzynski_server .       {-- Używamy znajdując się w folderze server
+docker build -t JSkrzynski_client .                         oraz client              --}
 
 docker network create test-net
 
